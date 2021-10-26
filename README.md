@@ -1,6 +1,24 @@
 ### Hi 🥰
 
+I'm Researcher in [@Insight Data Science Lab](https://insightlab.ufc.br/) and Software Engineer at [@Sankhya] (https://www.sankhya.com.br/)! 👩🏻‍💻
 
+📚👩🏻‍🎓 Graduated with Magna Cum Laude in Computer Science and currently Master's Student in Computer Science at the Federal University of Ceará (UFC).
+👩🏻‍🏫 Creator of the volunteer project Hour of Code in Schools, which aims to help disseminate knowledge in programming logic to children from the public schools in Fortaleza.
+
+📌 Extensive experience in Python and JavaScript.
+📌 Great enthusiast and with extensive experience in the Data Science area, focusing on subjects such as Data Analysis and Visualization and Modeling and with experience in working with trajectory and textual data (NLP).
+📌 Experience with Software Development, both Back-End and Front-End. 
+📌 Enthusiast in User Experience (UX).
+
+## 📬 Get in touch
+
+- Web: [https://andyfernandes.github.io/][1]
+- LinkedIn: [https://www.linkedin.com/in/andreza-fernandes/][2]
+
+## 📺 Latest YouTube Videos
+- Encontro 1 GEAM: 
+- Encontro 2 GEAM:
+- Encontro 3 GEAM: [Few Shot Learning in NLP](https://www.youtube.com/watch?v=aS-6UX-0AGo)
 
 <!--
 I'm Researcher and Developer 
