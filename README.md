@@ -26,6 +26,7 @@ I'm Researcher in [@Insight Data Science Lab](https://insightlab.ufc.br/) and So
 - Encontro 3 GEAM: [Few Shot Learning in NLP](https://www.youtube.com/watch?v=aS-6UX-0AGo)
 - Python Nordeste:
 - Python Brasil:
+- III ETIU: [Introdução a área de Data Science. Por onde seguir?](https://youtu.be/LeSpYkyZbrg)
 - Meetup DataRisk:
 
 <!--
