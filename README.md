@@ -17,8 +17,8 @@ I'm Researcher in [@Insight Data Science Lab](https://insightlab.ufc.br/) and So
 
 ## 📬 Get in touch
 
-- Web: [https://andyfernandes.github.io/][1]
-- LinkedIn: [https://www.linkedin.com/in/andreza-fernandes/][2]
+- [WebPage](https://andyfernandes.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/andreza-fernandes/)
 
 ## 📺 Latest YouTube Videos
 - Encontro 1 GEAM: 
