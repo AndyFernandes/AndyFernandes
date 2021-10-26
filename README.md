@@ -21,8 +21,8 @@ I'm Researcher in [@Insight Data Science Lab](https://insightlab.ufc.br/) and So
 - [LinkedIn](https://www.linkedin.com/in/andreza-fernandes/)
 
 ## 📺 Latest YouTube Videos
-- Encontro 1 GEAM: 
-- Encontro 2 GEAM:
+- Encontro 1 GEAM: [Introdução ao PyMove](https://www.youtube.com/watch?v=XIxmXcFA0I4&t=2s)
+- Encontro 2 GEAM: [Aprendizado de Máquina para Reconhecimento de Entidades Nomeadas](https://www.youtube.com/watch?v=_NKQCzuZbKc)
 - Encontro 3 GEAM: [Few Shot Learning in NLP](https://www.youtube.com/watch?v=aS-6UX-0AGo)
 - Python Nordeste:
 - Python Brasil:
