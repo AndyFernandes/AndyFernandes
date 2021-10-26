@@ -1,6 +1,6 @@
 ### Hi 🥰
 
-I'm Researcher in [@Insight Data Science Lab](https://insightlab.ufc.br/) and Software Engineer at [@Sankhya] (https://www.sankhya.com.br/)! 👩🏻‍💻
+I'm Researcher in [@Insight Data Science Lab](https://insightlab.ufc.br/) and Software Engineer at [@Sankhya](https://www.sankhya.com.br/)! 👩🏻‍💻
 
 📚👩🏻‍🎓 Graduated with Magna Cum Laude in Computer Science and currently Master's Student in Computer Science at the Federal University of Ceará (UFC).
 
@@ -24,6 +24,9 @@ I'm Researcher in [@Insight Data Science Lab](https://insightlab.ufc.br/) and So
 - Encontro 1 GEAM: 
 - Encontro 2 GEAM:
 - Encontro 3 GEAM: [Few Shot Learning in NLP](https://www.youtube.com/watch?v=aS-6UX-0AGo)
+- Python Nordeste:
+- Python Brasil:
+- Meetup DataRisk:
 
 <!--
 I'm Researcher and Developer 
