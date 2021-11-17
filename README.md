@@ -27,7 +27,7 @@ I'm Researcher in [@Insight Data Science Lab](https://insightlab.ufc.br/) and So
 - Python Nordeste:
 - Python Brasil:
 - III ETIU: [Introdução a área de Data Science. Por onde seguir?](https://youtu.be/LeSpYkyZbrg)
-- Meetup DataRisk:
+- Meetup DataRisk: [Introdução ao Mundo de Processamento de Linguagem Natural (PLN)](https://www.youtube.com/watch?v=kUQzXXNSu6Q&t=3s)
 
 <!--
 I'm Researcher and Developer 
