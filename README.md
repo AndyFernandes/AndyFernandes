@@ -1,6 +1,8 @@
 ### Hi 🥰
 
-I'm Researcher in [@Insight Data Science Lab](https://insightlab.ufc.br/) and Software Engineer at [@Sankhya](https://www.sankhya.com.br/)! 👩🏻‍💻
+I'm Software Engineer at [@Itaú Unibanco]! 👩🏻‍💻
+
+I was Researcher in [@Insight Data Science Lab](https://insightlab.ufc.br/) and Software Engineer at [@Sankhya](https://www.sankhya.com.br/)! 
 
 📚👩🏻‍🎓 Graduated with Magna Cum Laude in Computer Science and currently Master's Student in Computer Science at the Federal University of Ceará (UFC).
 
