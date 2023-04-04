@@ -61,12 +61,29 @@
         </header>
 
         <section>
-            <div id="about-me" class="content-section"></div>
-            <div id="experience" class="content-section"></div>
-            <div id="education" class="content-section"></div>
-            <div id="projects" class="content-section"></div>
-            <div id="talks" class="content-section"></div>
-            <div id="posts" class="content-section"></div>
+            <div id="about-me" class="content-section">
+                <h1>About me</h1>
+            </div>
+
+            <div id="experience" class="content-section">
+                <h1>Experience</h1>
+            </div>
+
+            <div id="education" class="content-section">
+                <h1>Education</h1>
+            </div>
+
+            <div id="projects" class="content-section">
+                <h1>Projects</h1>
+            </div>
+
+            <div id="talks" class="content-section">
+                <h1>Talks</h1>
+            </div>
+
+            <div id="posts" class="content-section">
+                <h1>Posts</h1>
+            </div>
         </section>
     </div>
 
@@ -137,24 +154,13 @@
         }
 
         .content-section {
-            width: 100%;
-            height: 100%;
-            background-color: black;
             display: none;
         }
 
-        #select-about-me:focus+#about-me {
-            display: block;
+        #about-me:target, #posts:target, #experience:target, #education:target, #talks:target, #projects:target {
+            display: flex;
             width: 100%;
             height: 100%;
-            z-index: 1;
-            visibility: visible;
-            background-color: red;
-        }
-
-        #select-posts:active~#posts {
-            display: block;
-            background-color: black;
         }
 
         svg > path {
